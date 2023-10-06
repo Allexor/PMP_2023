@@ -1,4 +1,5 @@
 # PMP-2023 - NITA ALEXANDRU B1
+NITA ALEXANDRU B1
 ## Instalare
 Trebuie instalat o versiune de Python >3.8. Recomandat 3.10.7. (https://www.python.org/downloads/)
 
