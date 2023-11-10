@@ -1,0 +1,3 @@
+N ar trebui sa aiba o valoare mai mare decat Y[nr clienti care au cumparat produs](adica daca Y e 10, n ar trebui sa fie >10) pentru a se potrivi cu datele(adica cu cat mai multi clienti cumpara produs -> avem mai multi vizitatori). 
+
+Pentru valorile lui theta: atunci cand theta are o valoare mai mica(0.2) valoarea medie a lui n este mai mare decat cazul in care theta ar fi mai mare(0.5) -> cand theta e mai mare(0.5), precizia lui n este crescuta(capetele intervalului sunt mai bine stabilite)[estimeaza mai bine atunci cand un client are probabilitatea mai mare de a cumpara un produs
