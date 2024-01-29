@@ -3,9 +3,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import arviz as az
 
-# nu am pus screenshoturi deoarece nu am avut timp cu executia pt ca a durat foarte mult si nu s-a terminat
+# imi pare rau, dar
+# nu am pus screenshoturi deoarece nu am avut timp cu executia pentru ca a durat foarte mult si nu s-a terminat
 
-# NITA ALEXANDRU B!
+# NITA ALEXANDRU B1
 
 if __name__ == '__main__':
 
